@@ -1,0 +1,9 @@
+<resources>
+    <style name="LaunchTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize theme if needed -->
+    </style>
+
+    <style name="NormalTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- App theme -->
+    </style>
+</resources>
