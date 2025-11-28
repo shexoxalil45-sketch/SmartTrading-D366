@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = 'smart_trading_d366'
