@@ -1,0 +1,38 @@
+/SmartTrading-D366
+│
+├── backend/
+│   ├── app.py
+│   ├── ai_model.py
+│   ├── tradingview_api.py
+│   ├── signal_engine.py
+│   ├── risk_manager.py
+│   └── requirements.txt
+│
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── signals_screen.dart
+│   │   ├── analysis_screen.dart
+│   │   └── settings_screen.dart
+│   ├── services/
+│   │   ├── api_service.dart
+│   │   └── localization_service.dart
+│   └── widgets/
+│       ├── signal_card.dart
+│       └── chart_widget.dart
+│
+├── assets/
+│   ├── icons/
+│   └── lang/
+│       ├── en.json
+│       ├── ar.json
+│       ├── tr.json
+│       ├── ku_sorani.json
+│       ├── ku_kurmanji.json
+│       └── de.json
+│
+├── android/
+├── ios/
+├── pubspec.yaml
+└── codemagic.yaml
