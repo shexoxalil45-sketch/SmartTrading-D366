@@ -1,0 +1,3 @@
+android/settings.gradle
+rootProject.name = "smarttrading_d366"
+include ':app'
