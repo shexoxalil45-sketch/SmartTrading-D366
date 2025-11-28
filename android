@@ -1,0 +1,12 @@
+android/
+   app/
+      src/
+         main/
+            AndroidManifest.xml
+            kotlin/MainActivity.kt
+   build.gradle
+   settings.gradle
+   gradle.properties
+   gradlew
+   gradlew.bat
+   gradle/
